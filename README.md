@@ -1,4 +1,4 @@
-My name is Ben Lee, and I am a computer science student with a focus on data science at Oregon State University (expected graduation June 2022). I love to solve software engineering problems and learn more about machine learning.
+My name is Ben Lee, and I am a computer science student with a focus on data science at Oregon State University (expected graduation 2022). I love to solve software engineering problems and learn more about machine learning.
 
 My technical skills include Python, C++, Javascript, and Django.
 
